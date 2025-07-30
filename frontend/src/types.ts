@@ -1,0 +1,2 @@
+// types.ts
+export type FilterType = 'none' | 'canny' | 'kmeans' | 'stylize' | 'voronoi' | 'voronoi_colored' | 'adaptive_enhancement' | 'neural_flow' | 'quantum_ripple' | 'quantum_ripple_subtle' | 'quantum_ripple_intense' | 'quantum_ripple_mystical' | 'crystal_fractal' | 'neon_dreams';
